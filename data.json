@@ -7,33 +7,26 @@
     "name": "최준호",
     "contact": [
       { "id": 0, "name": "Email", "href": "ililil9482@naver.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/ililil9482" },
+      { "id": 1, "name": "Github", "href": "https://github.com/juno-choi" },
       { "id": 2, "name": "Blog", "href": "https://velog.io/ililil9482/posts" }
     ]
   },
 
   "workExperience": [
-    {
-      "id": 2,
-      "name": "파워이십일",
-      "position": "Front-end Engineer",
-      "imgSrc": "/images/workExperience/power.jpg",
-      "period": ["2022. 01", "now"]
-    },
     
     {
       "id": 1,
-      "name": "디케이테크인",
-      "position": "Front-end Engineer",
-      "imgSrc": "/images/workExperience/dkt.png",
-      "period": ["2019. 01", "2019. 09"]
+      "name": "Code Block",
+      "position": "Backend Engineer",
+      "imgSrc": "/images/workExperience/codeblock.png",
+      "period": ["2020. 01. 15", "2022. 07. 31"]
     },
     {
       "id": 0,
       "name": "카카오VX",
-      "position": "Web Developer",
+      "position": "Backend Developer",
       "imgSrc": "/images/workExperience/vx.png",
-      "period": ["2022. 01", "now"]
+      "period": ["2022. 08", "now"]
     }
 
   ],
@@ -48,71 +41,33 @@
       "isTeam": true,
       "period": ["2022. 07", "2022. 09"],
       "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
-    },
-    {
-      "id": 1,
-      "name": "첫번째 개인 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
-      "isTeam": false,
-      "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
     }
   ],
 
   "activity": [
-    {
-      "id": 0,
-      "name": "첫번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "첫번째 활동에 대한 간략한 설명"
-    },
-    {
-      "id": 1,
-      "name": "두번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "두번째 활동에 대한 간략한 설명"
-    }
   ],
 
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
+      "name": "풍생고등학교",
+      "period": ["2010. 03", "2013. 02"],
+      "description": "고등학교 졸업"
     },
     {
       "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "name": "평택대학교 (4년제)",
+      "period": ["2013. 03", "2019. 02"],
+      "description": "대학교 졸업 (정보통신학과)"
     }
   ],
 
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
-    },
-    {
-      "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
-    }
-  ],
-
-  "award": [
-    {
-      "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "정보처리기사",
+      "date": "2018. 08. 20",
+      "organizer": "한국산업인력공단"
     }
   ]
 }
