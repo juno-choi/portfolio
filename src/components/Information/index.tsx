@@ -14,7 +14,7 @@ const Information = ({ information }: Pick<DataProps, 'information'>) => {
           <div className="hidden md:inline-block relative rounded-br-3xl rounded-tr-3xl rounded-bl-3xl z-20 bg-transparent origin-top-left w-fit bg-white dark:bg-BLACK">
             <h2 className="leading-[1.15] text-3xl lg:text-[40px] relative px-4 z-20 inline-block">
               안녕하세요,
-              <br /> 프론트엔드 개발자 
+              <br /> 백엔드 개발자 
               <span className="text-PRIMARY selection:bg-PRIMARY_LIGHT font-semibold">
                  {' '+information.name}
               </span>
@@ -24,7 +24,7 @@ const Information = ({ information }: Pick<DataProps, 'information'>) => {
           <div>
             <span className="inline-block leading-[1.15] font-semibold py-2 text-4xl lg:text-[40px] relative px-4 z-20 md:hidden">
               안녕하세요,
-              <br /> 프론트엔드 개발자<br />
+              <br /> 백엔드 개발자<br />
               <span className="text-PRIMARY selection:bg-PRIMARY_LIGHT font-semibold">
                 {information.name}
               </span>

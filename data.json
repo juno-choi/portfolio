@@ -1,14 +1,14 @@
 {
   "resumeTitle": {
-    "title": "Choi Go Eun"
+    "title": "Choi Jun Ho"
   },
 
   "information": {
-    "name": "최고은",
+    "name": "최준호",
     "contact": [
-      { "id": 0, "name": "Email", "href": "cge96@kakao.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/goeun23" },
-      { "id": 2, "name": "Blog", "href": "https://cge96.tistory.com/" }
+      { "id": 0, "name": "Email", "href": "ililil9482@naver.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/ililil9482" },
+      { "id": 2, "name": "Blog", "href": "https://velog.io/ililil9482/posts" }
     ]
   },
 
