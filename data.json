@@ -37,34 +37,69 @@
 
   "project": [
     {
-      "id": 2,
-      "name": "카카오VX",
-      "description": "카카오 vx 팀원",
+      "id": 5,
+      "name": "Sium",
+      "description": "AI를 활용하여 바이브 코딩을 경험하는 프로젝트입니다.",
+      "webUrl": "https://sium-nine.vercel.app",
+      "repoUrl": "https://github.com/juno-choi/sium",
+      "isTeam": false,
+      "period": ["2025. 12", "now"],
+      "stack": ["react", "nextjs", "typescript", "tailwindcss", "supabase"]
+    },
+    {
+      "id": 4,
+      "name": "골프예약 플랫폼 개발",
+      "description": "골프예약 플랫폼을 유지보수 및 신규 개발한 경험입니다.",
       "webUrl": "",
       "repoUrl": "",
       "isTeam": true,
       "period": ["2022. 08", "2025. 07"],
-      "stack": ["java", "spring boot", "mybatis"]
+      "stack": ["java", "spring boot"],
+      "company": "KakaoVX"
     },
     {
-      "id": 1,
-      "name": "",
-      "description": "",
+      "id": 3,
+      "name": "골프예약 연동 시스템 - 리팩토링",
+      "description": "300개 이상의 골프장의 각 요구사항을 수용해야하고 6개월~1년 안에 계약 변경으로 인한 ERP 변경시 마다 해당 요구사항을 지속적으로 반영해주어야 하는 문제가 있었습니다. 그로 인한 기술 부채를 주도적으로 해결한 경험입니다.",
       "webUrl": "",
       "repoUrl": "",
       "isTeam": true,
-      "period": ["", ""],
-      "stack": ["", "", ""]
+      "period": ["2024. 07", "2024. 12"],
+      "stack": ["java", "spring boot"],
+      "company": "KakaoVX"
+    },
+    {
+      "id": 2,
+      "name": "골프예약 운영 - 트러블슈팅",
+      "description": "ERP 배치 서비스가 랜덤한 시점에서 다운되어 APM 도구(Dynatrace)를 사용하여 문제를 분석하고 JVM 분석 도구를 통해 트러블슈팅을 진행한 경험입니다.",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2024. 08", "2024. 09"],
+      "stack": ["java", "spring boot", "dynatrace", "jmap"],
+      "company": "KakaoVX"
+    },
+        {
+      "id": 1,
+      "name": "ISMS 심사대응",
+      "description": "ISMS 심사에 대비하여 암호화 알고리즘 교체, 동시 접속 차단 기능, 로그인 기록 기능, 로그인 session 유지 기능을 개발하였습니다.",
+      "webUrl": null,
+      "repoUrl": null,
+      "isTeam": true,
+      "period": ["2025. 09", "2025. 11"],
+      "stack": ["java", "spring boot", "sns/sqs", "redis", "mysql"],
+      "company": "BDACS"
     },
     {
       "id": 0,
-      "name": "",
-      "description": "",
+      "name": "KYB/KYC 재이행",
+      "description": "KYB/KYC 재이행 프로세스 구현을 진행하며 기능을 구현 및 리팩토링한 경험입니다.",
       "webUrl": "",
       "repoUrl": "",
       "isTeam": true,
-      "period": ["", ""],
-      "stack": ["", "", ""]
+      "period": ["2025. 11", "2025. 12"],
+      "stack": ["java", "spring boot", "mysql", "sns/sqs", "sendbird", "slack"],
+      "company": "BDACS"
     }
   ],
 

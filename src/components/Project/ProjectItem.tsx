@@ -8,6 +8,7 @@ import { ProjectProps } from "@/types";
 
 const ProjectItem = ({
   name,
+  company,
   description,
   repoUrl,
   webUrl,
@@ -34,9 +35,14 @@ const ProjectItem = ({
               <h3>{name}</h3>
               <div className="flex flex-col">
                 <span>{`${period[0]} - ${period[1]}`}</span>
+                <span>{company}</span>
               </div>
             </div>
-            <Links repoUrl={repoUrl} webUrl={webUrl} />
+            { 
+              repoUrl || webUrl ? (
+                <Links repoUrl={repoUrl} webUrl={webUrl} />
+              ) : null
+            }
           </div>
         </div>
       </div>
