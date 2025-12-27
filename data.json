@@ -7,31 +7,65 @@
     "name": "최준호",
     "contact": [
       { "id": 0, "name": "Email", "href": "ililil9482@naver.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/juno-choi" },
-      { "id": 2, "name": "Blog", "href": "https://velog.io/ililil9482/posts" }
+      { "id": 1, "name": "Github", "href": "https://github.com/juno-choi" }
     ]
   },
 
   "workExperience": [
-    
     {
-      "id": 1,
+      "id": 2,
       "name": "Code Block",
       "position": "Backend Engineer",
       "imgSrc": "/images/workExperience/codeblock.png",
       "period": ["2020. 01. 15", "2022. 07. 31"]
     },
     {
-      "id": 0,
+      "id": 1,
       "name": "카카오VX",
       "position": "Backend Developer",
       "imgSrc": "/images/workExperience/vx.png",
-      "period": ["2022. 08", "now"]
+      "period": ["2022. 08", "2025. 07"]
+    },
+    {
+      "id": 0,
+      "name": "BDACS",
+      "position": "Backend Developer",
+      "imgSrc": "/images/workExperience/bdacs.png",
+      "period": ["2025. 08", "now"]
     }
-
   ],
 
   "project": [
+    {
+      "id": 2,
+      "name": "카카오VX",
+      "description": "카카오 vx 팀원",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2022. 08", "2025. 07"],
+      "stack": ["java", "spring boot", "mybatis"]
+    },
+    {
+      "id": 1,
+      "name": "",
+      "description": "",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["", ""],
+      "stack": ["", "", ""]
+    },
+    {
+      "id": 0,
+      "name": "",
+      "description": "",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["", ""],
+      "stack": ["", "", ""]
+    }
   ],
 
   "activity": [
