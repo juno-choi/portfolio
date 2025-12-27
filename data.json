@@ -54,7 +54,7 @@
       "repoUrl": "",
       "isTeam": true,
       "period": ["2022. 08", "2025. 07"],
-      "stack": ["java", "spring boot"],
+      "stack": ["java", "spring boot", "redis"],
       "company": "KakaoVX"
     },
     {
