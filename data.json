@@ -37,7 +37,7 @@
 
   "project": [
     {
-      "id": 5,
+      "id": 6,
       "name": "Sium",
       "description": "AI를 활용하여 바이브 코딩을 경험하는 프로젝트입니다.",
       "webUrl": "https://sium-nine.vercel.app",
@@ -45,6 +45,17 @@
       "isTeam": false,
       "period": ["2025. 12", "now"],
       "stack": ["react", "nextjs", "typescript", "tailwindcss", "supabase"]
+    },
+    {
+      "id": 5,
+      "name": "AI를 활용하여 개발 생산성을 높인 경험 ",
+      "description": "업무에 AI를 도입하여 개발 생산성을 높인 경험입니다.",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["", "now"],
+      "stack": ["ChatGpt", "gemini", "cursor", "claude", "antigravity"],
+      "company": "KakaoVX, BDACS"
     },
     {
       "id": 4,
@@ -88,17 +99,6 @@
       "isTeam": true,
       "period": ["2025. 09", "2025. 11"],
       "stack": ["java", "spring boot", "sns/sqs", "redis", "mysql"],
-      "company": "BDACS"
-    },
-    {
-      "id": 0,
-      "name": "KYB/KYC 재이행",
-      "description": "KYB/KYC 재이행 프로세스 구현을 진행하며 기능을 구현 및 리팩토링한 경험입니다.",
-      "webUrl": "",
-      "repoUrl": "",
-      "isTeam": true,
-      "period": ["2025. 11", "2025. 12"],
-      "stack": ["java", "spring boot", "mysql", "sns/sqs", "sendbird", "slack"],
       "company": "BDACS"
     }
   ],
